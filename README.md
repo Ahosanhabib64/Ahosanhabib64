@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ahosan Habib
 #### I am Web Designer & Devloper
-![I am Web Designer & Devloper][(https://webhttps://github.com/Ahosanhabib64/Ahosanhabib64/blob/main/12p.png)](https://web.facebook.com/photo/?fbid=1036299786968890&set=a.301016467163896)
+![I am Web Designer & Devloper]
 
 I made this project just for fun, it allows you to create nice Design that you can copy/paste and use in your profile.
 
